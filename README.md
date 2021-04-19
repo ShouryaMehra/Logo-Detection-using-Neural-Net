@@ -1,1 +1,1 @@
-# Logo-Detection-using-Neural-Net
+# Logo Detection using Neural Network
